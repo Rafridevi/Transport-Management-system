@@ -21,7 +21,7 @@ Requirements of persona 1:
 
 Requirements of persona 2:
             
-  1.The Transport incharge has to monitor the cab.So the transport incharge will also be provided with live tracting of the cabs.
+  1.The Transport incharge has to monitor the cab.So the transport incharge will also be provided with live tracking of the cabs.
            
   2.He will be received a notification once the passenger reached their destination.
 
@@ -29,3 +29,6 @@ Requirements of persona 2:
 Requirements ofpersona 3:
           
    1.The Driver can see the route in map.
+
+In additional:
+1.The pick up and Drop time will be indicate to the empolyee
