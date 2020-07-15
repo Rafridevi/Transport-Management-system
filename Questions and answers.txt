@@ -1,0 +1,13 @@
+what if an incharge is absent?
+  Let me give an example,
+               Assume there are 100 employees who are going to use the cab facility.Let us have 10 incharges.That is 1 incharge for 10 employees.
+  I want to make clear that there is no particular incharge for an employee.Assinging the incharge is in first come first serve manner.The 1st employee
+  who asks for a ride will be assigned with 1st incharge,2nd employee will be assigned with the 2nd incharge and so on.The 11th employee will be assigned 
+  with the 1st incharge and it goes on.Whenever an incharge is not at work that incharge's slot will not be assigned for any employees.
+ 
+What if an employee doesn't want to be traced by an incharge ?
+       The employee can give access to an incharge for tracing the cab.If an employee have a problem with cab tracing,then he/she can refuse the access for
+ tracing.  
+
+What if the specified destination can't be navigated through map?
+      Only in small villages,some addresses can't be navigated through map.So it is not going to be big problem.
